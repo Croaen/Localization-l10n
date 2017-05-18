@@ -10349,7 +10349,7 @@ msgstr ""
 
 #: shortcodes/fusion-sharingbox.php:457 shortcodes/fusion-sharingbox.php:695
 msgid "Share This Story, Choose Your Platform!"
-msgstr ""
+msgstr "Deel dit artikel, kies uw social media platform"
 
 #: shortcodes/fusion-sharingbox.php:461
 msgid "Sharing Box Tagline Text Color"
